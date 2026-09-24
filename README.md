@@ -4,7 +4,7 @@
 
 A responsive Product Admin Dashboard built with **React, JavaScript, Vite, Tailwind CSS, and Axios**, using the DummyJSON API.
 
-**Live demo:** https://admindashboard-rust-two.vercel.app
+**Live demo:** https://product-admin-woad.vercel.app
 
 ---
 
@@ -43,7 +43,7 @@ A responsive Product Admin Dashboard built with **React, JavaScript, Vite, Tailw
 Clone the repository:
 
 ```bash
-git clone https://github.com/vishal14marathe/admindashboard.git
+git clone  https://github.com/vishal14marathe/product-admin.git
 cd admindashboard
 ```
 
@@ -231,7 +231,7 @@ Every line in the repo is code I understand and can explain.
 Deployed on Vercel:
 
 ```text
-https://admindashboard-rust-two.vercel.app
+ https://product-admin-woad.vercel.app
 ```
 
 For SPA routing on Vercel, add a `vercel.json` in the project root so that any deep link serves `index.html`:
